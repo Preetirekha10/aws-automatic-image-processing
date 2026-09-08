@@ -49,6 +49,7 @@ aws-automatic-image-processing/
     ├── 04-input-image.png
     ├── 05-cloudwatch-logs.png
     └── 06-output-image.png
+```
 
 ## Testing
 
